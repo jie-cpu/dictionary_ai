@@ -1,0 +1,5 @@
+{
+  "name": "OmniDict AI",
+  "description": "A cross-platform intelligent dictionary powered by Gemini, featuring context-aware definitions, vocabulary management, and adaptive UI styles.",
+  "requestFramePermissions": []
+}

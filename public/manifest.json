@@ -1,0 +1,21 @@
+{
+  "name": "OmniDict AI",
+  "short_name": "OmniDict",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "A cross-platform intelligent dictionary powered by Gemini.",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/icon192/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/icon512/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
